@@ -1,4 +1,5 @@
 <?php
 echo "hellowordl";
 echo "!";
+echo "tambah";
 ?>
